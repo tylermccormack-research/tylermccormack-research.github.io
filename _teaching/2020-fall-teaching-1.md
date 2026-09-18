@@ -1,11 +1,11 @@
 ---
-title: "Physics for Biology"
+title: "Coastal Dynamics and Design"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2020-fall-teaching-1
-venue: "University of Western Brittany, Department of Science"
-date: 2020-10-01
-location: "Brest, France"
+venue: "Northeastern University"
+date: 2026-01-01
+location: "Boston, MA"
 ---
 
-In this teaching experience I suppervises practical works in Lab on Capillarity, Hydrostatic, Hydrodynamic, and Measure Uncertainty 
+Worked with students to help them understand ocean and coastal processes such as wave generation, wave shoaling, orbital and current velocities, storm surge, wave-current interactions, and wave setup.
