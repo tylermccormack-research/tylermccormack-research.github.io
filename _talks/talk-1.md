@@ -1,11 +1,11 @@
 ---
-title: "Sea States across Current Fronts: a case study using Numerical Wave Models and CFOSAT-SWIM data across the Agulhas Current."
+title: "SWOT in the nearshore: Extending HR Pixel cloud product to the surfzone for hyperlocal wave measurements"
 collection: talks
-type: "Talk"
+type: "Presentations"
 permalink: /talks/talk-1
-venue: "Ocean Sciences Meeting 2020"
-date: February 2020
-location: "San Diego, California"
+venue: "SWOT Science Team Meeting 2025"
+date: October 2025
+location: "Arcachon, France"
 ---
 
-I have presented results on the spatial variability of the dominant wave direction and the significant wave height observed by CFOSAT and simulated with spectral wave model in the Agulhas current.
+This talk shows the ability of SWOT to measure water surface elevation and significant wave height close to shore. It also presents experimental methods to estimate significant wave height using the HR pixel cloud product.
