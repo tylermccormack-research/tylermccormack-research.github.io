@@ -1,6 +1,6 @@
 ---
-title: "Within a breaking wave"
-excerpt: "Brittany-France<br/><img src='/images/barrel_brittany.png'>"
+title: "Harbor wave propagation and flooding studies"
+excerpt: "Camden, ME & Boston, MA<br/><img src='/images/camden1.png'>"
 collection: portfolio
 ---
 
