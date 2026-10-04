@@ -4,7 +4,7 @@ collection: talks
 #type: "Presentations"
 permalink: /talks/swotStm2025
 venue: "SWOT Science Team Meeting 2025"
-date: October 2025
+date: October 15 2025
 location: "Arcachon, France"
 excerpt: "<br/><a href='/talks/swotStm2025'><img src='/images/SwotSTMeeting_2025_McCormack.png'></a>"
 ---
