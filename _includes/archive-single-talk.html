@@ -38,12 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0;">{{ post.venue }}, {{ post.location }}</p>{% endif %}
-    <style>
-      .archive__item-excerpt img {
-        margin-top: 0 !important;
-      }
-    </style>
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description" style="margin: 0; padding: 0; line-height: 1;">{{ post.venue }}, {{ post.location }}</p>{% endif %}
+    {% if post.excerpt %}<div class="archive__item-excerpt" style="margin: 0; padding: 0;">{{ post.excerpt | markdownify }}</div>{% endif %}
   </article>
 </div>
