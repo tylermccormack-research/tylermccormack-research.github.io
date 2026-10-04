@@ -6,7 +6,7 @@ permalink: /talks/egu-2022
 venue: "EGU 2022"
 date: May 23 2022
 location: "Vienna, Austria"
-excerpt: "<br/><a href='/talks/icce-2024'><img src='/images/EGU Presentation_Version2.pptx.jpg'></a>"
+excerpt: "<a href='/talks/icce-2024'><img src='/images/EGU Presentation_Version2.pptx.jpg'></a>"
 ---
 
 This presentation shows the similiarities of field measurements of microplastics on the New Jersey, USA coastline with simulated microplastic convergence zones modeled using Delft3d models that include a two-way coupled wave and water level model that is used to force a passive particle tracking model.
