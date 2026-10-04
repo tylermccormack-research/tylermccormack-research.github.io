@@ -10,3 +10,11 @@ excerpt: "<br/><a href='/talks/swotStm2025'><img src='/images/SwotSTMeeting_2025
 ---
 
 This talk shows the ability of SWOT to measure water surface elevation and significant wave height close to shore. It also presents experimental methods to estimate significant wave height using the HR pixel cloud product.
+
+
+<iframe
+  src="/files/SwotSTMeeting_2025_McCormack (1).pdf"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
