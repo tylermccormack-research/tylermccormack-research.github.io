@@ -2,7 +2,7 @@
 title: "SWOT in the nearshore: Extending HR Pixel cloud product to the surfzone for hyperlocal wave measurements"
 collection: talks
 #type: "Presentations"
-permalink: /talks/talk-1
+permalink: /talks/swotStm2025
 venue: "SWOT Science Team Meeting 2025"
 date: October 2025
 location: "Arcachon, France"
