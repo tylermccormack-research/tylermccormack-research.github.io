@@ -13,10 +13,10 @@ paperurl: 'https://doi.org/10.1016/j.coastaleng.2024.104631'
 Wave-orbital velocities are estimated with particle image velocimetry (PIV) applied to rapid sequences of images of the surfzone surface obtained with a low-cost camera mounted on an amphibious tripod. Time series and spectra of the remotely sensed cross-shore wave-orbital velocities are converted to the depth of colocated acoustic Doppler velocimeters (ADVs), using linear finite depth theory. These converted velocities are similar to the velocities measured in situ (mean nRMSE for time series = 16% and for spectra = 10%). Small discrepancies between depth-attenuated surface and in situ currents may be owing to errors in the surface velocity measurements, uncertainties in the water depth, the vertical elevation of the ADVs, and the neglect of nonlinear effects when using linear finite depth theory. These results show the potential to obtain spatially dense estimates of wave velocities using optical near-field remote methods during field campaigns and continuous monitoring operations.
 
 ![Figure](https://tylermccormack-research.github.io/files/crab.png "Figure: Coastal Research Amphibious Buggy (CRAB) used for camera measurements")
-
 Figure: Coastal Research Amphibious Buggy (CRAB) used for camera measurements
 
-Figure: View from the camera mounted on the CRAB
+![Figure](https://tylermccormack-research.github.io/files/crabCam.jpg "Figure: View from the camera mounted on the CRAB before (left) and after (right) correcting for the lens distortion")
+Figure: View from the camera mounted on the CRAB before (left) and after (right) correcting for the lens distortion
 
 Figure: Time series of surface velocity (red) and subsurface velocity (black) before correction
 
