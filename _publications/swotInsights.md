@@ -3,7 +3,7 @@ title: "Applications, Limitations, and Insights for SWOT in Wave Dominated Nears
 collection: publications
 permalink: /publications/swotInsights
 excerpt: 'This paper provides insight into the capabilities of the SWOT satellite in the nearshore region'
-date: 2026-010-05
+date: 2026-10-05
 status: 'In review'
 venue: 'Geophysical Research Letters'
 #paperurl: 'https://doi.org/10.1016/j.coastaleng.2024.104631'
