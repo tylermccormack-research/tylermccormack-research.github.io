@@ -11,3 +11,10 @@ venue: 'In review at Geophysical Research Letters'
 ## Overview
 
 Water surface elevation (WSE) and significant wave height (SWH) measurements from the Surface Water and Ocean Topography (SWOT) satellite mission are compared to in-situ measurements to evaluate the accuracy of SWOT measurements in wave dominated nearshore environments.
+
+<iframe
+  src="/files/Preprint_Applications, Limitations, and Insights for SWOT in Wave Dominated Nearshore Environments.pdf"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
