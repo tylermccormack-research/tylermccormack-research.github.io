@@ -4,4 +4,4 @@ excerpt: "Camden, ME & Boston, MA<br/><img src='/images/camden1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Lead coastal field deployments by assembling, deploying, and maintaining water level sensors and Sofar Spotter buoys with Smart Moorings to collect high-resolution wave and water level data. Data were used for hydrodynamic model forcing and validation as part of studies on wave propagation, ship wake impacts, and flooding in urban harbors.
