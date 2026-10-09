@@ -32,3 +32,18 @@ Working with the fabrication shop and a local welder, we turned the 3D printed p
 </div>
 
 ![Figure](https://tylermccormack-research.github.io/images/metalBumper.jpg "The final product!")
+
+The main advantages of the this bumper design is that it bolts on using the existing mounting points for the swim step and the entire instrument array pole can be easily rotated out of the water to avoid damage while in transit to the survey location. It also provides the opportunity to update design as necessary and add additional instrumentation (such as a side-scan sonar) in the future. 
+
+<div align="center">
+  <img src="https://tylermccormack-research.github.io/images/surveyPoleUp.jpg" alt="Instrument pole up in the surveying position" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/surveyPoleDown.jpg" alt="Instrument pole down in the transit position" width="40%">
+</div>
+
+I also 3D printed platform for the data acquisition computer to sit on in the frunk of the jetski to keep it secure and raised off the ground incase any water got into the waterproof front compartment. 
+
+<div align="center">
+  <img src="https://tylermccormack-research.github.io/images/platformB.jpg" alt="Data acquisition computer on 3D printed platform" width="33%">
+  <img src="https://tylermccormack-research.github.io/images/platform.jpg" alt="3D printed platform in jetski frunk" width="33%">
+  <img src="https://tylermccormack-research.github.io/images/platformC.jpg" alt="Data acquisition computer on 3D printed platform in jetski frunk" width="33%">
+</div>
