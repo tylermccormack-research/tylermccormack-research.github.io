@@ -37,6 +37,8 @@ Skills
 * Advanced signal processing
 * Hydrodynamic modeling, Delft3D
 * QGIS
+* Github
+* HTML
 
 Certifications
 ======
