@@ -20,11 +20,15 @@ several times, each time with a slightly different angle. I split the videos int
 With the 3D I designed a bumper in Fusion 360 and 3D printed it at full scale for a test fit. The prototype fit perfectly! 
 
  <div align="center">
-  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_b.jpg" alt="3D Printed Jetski Bumper Prototype" width="40%">
-  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_c.jpg" alt="3D Printed Jetski Bumper Prototype Mounted on Jetski" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_b.jpg" alt="3D Printed Jetski Bumper Prototype" width="60%">
+  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_c.jpg" alt="3D Printed Jetski Bumper Prototype Mounted on Jetski" width="60%">
 </div>
 
+Working with the fabrication shop and a local welder, we turned the 3D printed prototype into the final metal assembly. Thanks to the precision work by everyone it also fit like a glove! 
 
+ <div align="center">
+  <img src="https://tylermccormack-research.github.io/images/plasticToMetal.jpg" alt="Transforming the 3D printed prototype into the final metal assembly" width="60%">
+  <img src="https://tylermccormack-research.github.io/images/preWeld.jpg" alt="Metal bumper pieces before welding" width="60%">
+</div>
 
-I prepared drawings for the fabrication shop to cut and weld the final assembly. 
-
+![Figure](https://tylermccormack-research.github.io/images/metalBumper.jpg "The final product!")
