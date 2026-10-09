@@ -19,6 +19,12 @@ several times, each time with a slightly different angle. I split the videos int
 
 With the 3D I designed a bumper in Fusion 360 and 3D printed it at full scale for a test fit. The prototype fit perfectly! 
 
+ <div align="center">
+  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_b.jpg" alt="3D Printed Jetski Bumper Prototype" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_c.jpg" alt="3D Printed Jetski Bumper Prototype Mounted on Jetski" width="40%">
+</div>
+
+
 
 I prepared drawings for the fabrication shop to cut and weld the final assembly. 
 
