@@ -43,14 +43,29 @@ The main advantages of the this bumper design is that it bolts on using the exis
 I also 3D printed platform for the data acquisition computer to sit on in the frunk of the jetski to keep it secure and raised off the ground incase any water got into the waterproof front compartment. 
 
 <div align="center">
-  <img src="https://tylermccormack-research.github.io/images/platformB.jpg" alt="Data acquisition computer on 3D printed platform" width="33%">
-  <img src="https://tylermccormack-research.github.io/images/platform.jpg" alt="3D printed platform in jetski frunk" width="33%">
-  <img src="https://tylermccormack-research.github.io/images/platformC.jpg" alt="Data acquisition computer on 3D printed platform in jetski frunk" width="33%">
+  <img src="https://tylermccormack-research.github.io/images/platformB.jpg" alt="Data acquisition computer on 3D printed platform" width="30%">
+  <img src="https://tylermccormack-research.github.io/images/platform.jpg" alt="3D printed platform in jetski frunk" width="30%">
+  <img src="https://tylermccormack-research.github.io/images/platformC.jpg" alt="Data acquisition computer on 3D printed platform in jetski frunk" width="30%">
 </div>
 
-Finally, I designed a fixture to mount the waterproof tablet used to control the data acquisition to the steering column of the jetski. 
+Finally, I designed a fixture to mount the waterproof tablet used to control the data acquisition to the steering column of the jetski. The tablet has a SIM card giving it cellular connection to enable network-RTK corrections.
 <div align="center">
   <img src="https://tylermccormack-research.github.io/images/tabletMount.jpg" alt="Waterproof tablet mounted to jetski steering column" width="40%">
   <img src="https://tylermccormack-research.github.io/images/tabletInAction.jpg" alt="Tablet in action" width="40%">
 </div>
+
+And voila, ready to survey!
+![Figure](https://tylermccormack-research.github.io/images/jesseJetski.jpg "Jesse Beckman doing a survey of Nahant Bay, MA")
+
+Jetskiing is fun but can be a bit chilly in May 🥶
+![Figure](https://tylermccormack-research.github.io/images/brr.jpg "Tyler docking after a cold day of testing in the Spring")
+
+Fun fact: 
+I used the same structure from motion techniques to make a 3D printed bust for the Civil Engineering Department chair, Jerry Hajjar, when he retired.
+
+<div align="center">
+  <img src="https://tylermccormack-research.github.io/images/jerryPlastic.jpg" alt="Waterproof tablet mounted to jetski steering column" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/jerryStone.jpg" alt="Tablet in action" width="40%">
+</div>
+
 
