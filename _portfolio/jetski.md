@@ -1,6 +1,7 @@
 ---
 title: "Design and Fabrication of Custom Jetski for Coastal Surveying"
-excerpt: "Boston, MA<br/><img src='/images/jesseJetski.jpg'>"
+#excerpt: "Boston, MA<br/><img src='/images/jesseJetski.jpg'>"
+excerpt: "<a href='/portfolio/jetski'><img src='/images/jesseJetski.jpg'></a>"
 collection: portfolio
 ---
 
