@@ -47,3 +47,10 @@ I also 3D printed platform for the data acquisition computer to sit on in the fr
   <img src="https://tylermccormack-research.github.io/images/platform.jpg" alt="3D printed platform in jetski frunk" width="33%">
   <img src="https://tylermccormack-research.github.io/images/platformC.jpg" alt="Data acquisition computer on 3D printed platform in jetski frunk" width="33%">
 </div>
+
+Finally, I designed a fixture to mount the waterproof tablet used to control the data acquisition to the steering column of the jetski. 
+<div align="center">
+  <img src="https://tylermccormack-research.github.io/images/tabletMount.jpg" alt="Waterproof tablet mounted to jetski steering column" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/tabletInAction.jpg" alt="Tablet in action" width="40%">
+</div>
+
