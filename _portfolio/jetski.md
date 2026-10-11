@@ -61,11 +61,11 @@ Jetskiing is fun but can be a bit chilly in May 🥶
 ![Figure](https://tylermccormack-research.github.io/images/brr.jpg "Tyler docking after a cold day of testing in the Spring")
 
 Fun fact: 
-I used the same structure from motion techniques to make a 3D printed bust for the Civil Engineering Department chair, Jerry Hajjar, when he retired.
+I used the same structure from motion techniques to make a 3D printed bust for the Civil Engineering Department chair when he retired.
 
 <div align="center">
-  <img src="https://tylermccormack-research.github.io/images/jerryPlastic.jpg" alt="Waterproof tablet mounted to jetski steering column" width="40%">
-  <img src="https://tylermccormack-research.github.io/images/jerryStone.jpg" alt="Tablet in action" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/jerryStoneCropped.gif" alt="Stone texture applied to simulate statue" width="40%">
+  <img src="https://tylermccormack-research.github.io/images/jerryTrueColorCropped.gif" alt="Tablet in action" width="40%">
 </div>
 
 
