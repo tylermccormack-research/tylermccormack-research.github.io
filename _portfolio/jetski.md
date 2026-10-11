@@ -18,8 +18,11 @@ The next step was using structure from motion (SFM) to create a 3D rendering of 
 
 With the 3D I designed a bumper in Fusion 360 and 3D printed it at full scale for a test fit. The prototype fit perfectly! 
 
-![Figure](https://tylermccormack-research.github.io/images/jetski3D.gif "3D model of jetski with bumper prototype")
-
+<p align="center">
+  <img src="https://tylermccormack-research.github.io/images/jetski3D.gif" 
+       alt="3D model of jetski with bumper prototype"
+       title="3D model of jetski with bumper prototype">
+</p>
  <div align="center">
   <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_b.jpg" alt="3D Printed Jetski Bumper Prototype" width="40%">
   <img src="https://tylermccormack-research.github.io/images/3dPrintedBumper_c.jpg" alt="3D Printed Jetski Bumper Prototype Mounted on Jetski" width="40%">
