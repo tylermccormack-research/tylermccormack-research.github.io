@@ -6,7 +6,7 @@ permalink: /talks/swotSTM2026
 venue: "SWOT Science Team Meeting 2026"
 date: November 4 2026
 location: "Chapel Hill, North Carolina, USA"
-excerpt: "<a href='/talks/swotSTM2026'><img src='/images/SWOT ST 2026_short_title_Page_01.png'></a>"
+excerpt: "<a href='/talks/swotSTM2026'><img src='/images/SWOT ST 2026_firstSlide.png'></a>"
 ---
 
 This talk demonstrates the ability of SWOT to accurately estimate water surface elevation in the nearshore and inner surf zone regions. It also shows the potential to estimate wave setup using the HR pixel cloud product and the advantages of the L2 LR SSH Unsmoothed for estimating significant wave height close to shore.
